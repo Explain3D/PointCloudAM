@@ -1,0 +1,3 @@
+# ninja log v5
+0	21750	1630076918699863440	/home/tan/XAI/tools/PyTorchEMD/build/temp.linux-x86_64-3.8/cuda/emd.o	5914394c444318e4
+74	14243	1630077085374654287	/home/tan/XAI/tools/PyTorchEMD/build/temp.linux-x86_64-3.8/cuda/emd_kernel.o	7b1f1895c76a1c59
